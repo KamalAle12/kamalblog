@@ -3,6 +3,7 @@
     padding: 0;
 }
 
+@import "~bootstrap/dist/css/bootstrap.css";
 .navbar-brand img {
     height: 35px;
     width: 95px;
